@@ -1,0 +1,17 @@
+leftnav:
+- identifier: 09a846ff-f456-4af6-951f-eb9e1e475778
+  name: About the Videos
+  pageRef: /pages/about-the-practical-sessions
+  weight: 10
+- identifier: a4e5b201-490c-4c23-a44c-9ceeabfd201f
+  name: Introduction to R
+  pageRef: /video_galleries/introduction-to-r
+  weight: 20
+- identifier: 26647961-0d8c-4fc8-b784-927b2a121a2a
+  name: Introduction to GIS
+  pageRef: /video_galleries/introduction-to-gis
+  weight: 30
+- identifier: 49c96ad2-a4a7-4a80-9cc3-49bdf50b4870
+  name: Related Files
+  pageRef: /pages/related-files
+  weight: 40
