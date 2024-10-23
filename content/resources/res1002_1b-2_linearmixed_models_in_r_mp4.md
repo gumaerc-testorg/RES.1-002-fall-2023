@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/introduction-to-r-and-gis-fall-2023/res1002_1b-2_linearmixed_models_in_r_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/res1002_1b-2_linearmixed_models_in_r_360p_16_9.mp4
 file_size: 40803307
 file_type: video/mp4
 image_metadata:
