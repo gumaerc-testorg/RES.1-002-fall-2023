@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/introduction-to-r-and-gis-fall-2023/mitres_1_002_f23.jpg
+file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/mitres_1_002_f23.jpg
 file_size: 304378
 file_type: image/png
 image_metadata:
