@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/introduction-to-r-and-gis-fall-2023/2-gis-script.r
+file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/2-gis-script.r
 file_size: 8541
 file_type: application/octet-stream
 image_metadata:
