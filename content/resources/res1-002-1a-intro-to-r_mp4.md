@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/res1-002-1a-intro-to-r_360p_16_9.mp4
+file: courses/terrestrial-carbon-cycle-and-ecosystem-ecology-practical-sessions/res1-002-1a-intro-to-r_360p_16_9.mp4
 file_size: 116876490
 file_type: video/mp4
 image_metadata:
