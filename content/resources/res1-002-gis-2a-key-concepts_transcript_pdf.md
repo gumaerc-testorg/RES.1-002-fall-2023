@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/res1-002-gis-2a-key-concepts_transcript.pdf
+file: courses/terrestrial-carbon-cycle-and-ecosystem-ecology-practical-sessions/res1-002-gis-2a-key-concepts_transcript.pdf
 file_size: 26976
 file_type: application/pdf
 image_metadata:

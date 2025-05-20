@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/1-intro-to-r.r
+file: courses/terrestrial-carbon-cycle-and-ecosystem-ecology-practical-sessions/1-intro-to-r.r
 file_size: 6752
 file_type: application/octet-stream
 image_metadata:
