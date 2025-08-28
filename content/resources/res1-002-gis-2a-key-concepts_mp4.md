@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/terrestrial-carbon-cycle-and-ecosystem-ecology-practical-sessions/res1-002-gis-2a-key-concepts_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/res1-002-gis-2a-key-concepts_360p_16_9.mp4
 file_size: 10434636
 file_type: video/mp4
 image_metadata:
