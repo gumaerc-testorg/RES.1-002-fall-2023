@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/terrestrial-carbon-cycle-and-ecosystem-ecology-practical-sessions/res1-002-1b-playing_with_data_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/introduction-to-r-and-gis-fall-2023/res1-002-1b-playing_with_data_360p_16_9.mp4
 file_size: 51462115
 file_type: video/mp4
 image_metadata:
