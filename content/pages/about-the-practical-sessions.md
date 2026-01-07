@@ -8,7 +8,7 @@ uid: 09a846ff-f456-4af6-951f-eb9e1e475778
 ---
 ## Description
 
-The goal of these videos is to provide students with tools and concepts for working with {{% resource_link "c97ad204-5f86-47a5-8d6b-9bec3d2eaedf" "R" %}}, a free software environment for statistical computing and graphics. The students will learn the basics of R, how to navigate the R interface and deal with different data formats, how to run and interpret linear models with R, and how to use Geographic Information Systems (GIS) in R. These practical sessions were developed as part of the course *1.845 Terrestrial Carbon Cycle and Ecosystem Ecology* but will be useful for anyone looking to learn about R and GIS.
+The goal of these videos is to provide students with tools and concepts for working with [R](https://www.r-project.org/), a free software environment for statistical computing and graphics. The students will learn the basics of R, how to navigate the R interface and deal with different data formats, how to run and interpret linear models with R, and how to use Geographic Information Systems (GIS) in R. These practical sessions were developed as part of the course *1.845 Terrestrial Carbon Cycle and Ecosystem Ecology* but will be useful for anyone looking to learn about R and GIS.
 
 ## Prior Knowledge
 
